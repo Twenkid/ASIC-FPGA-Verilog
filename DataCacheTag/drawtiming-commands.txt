@@ -1,0 +1,4 @@
+ drawtiming --output out2.gif newc
+ drawtiming -w40 -c30 -f12 --output out3.gif newc
+ drawtiming -w40 -c30 -f12 --output cache0.gif cache0.txt
+
