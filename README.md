@@ -1,7 +1,7 @@
 # ASIC-FPGA-Verilog
 ASIC, FPGA, Verilog projects and materials
 
-## Sum Channel DSP ...
+## Sum Channels DSP ...
 
 
 ## DataCacheTagMechanism
